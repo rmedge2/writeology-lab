@@ -14,9 +14,9 @@ main {
 }
 
 .featured-article-title{
+    color: white;
     display: flex;
     flex-direction: column;
-    f;
 }
 
 .tips {
@@ -29,10 +29,6 @@ main {
     justify-content: center;
     align-items: center;
     font-size: 15px;
-}
-
-.featured-article-title {
-    color: white;
 }
 
 .name-date {
