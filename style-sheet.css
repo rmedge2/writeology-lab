@@ -1,0 +1,40 @@
+@media screen and (max-width: 380px) {
+
+}
+
+main {
+    display: flex;
+}
+.featured-article {
+    /* display: flex; */
+    background-color: black;
+    width: 100%;
+    min-height: 280px;
+    border-radius: 10px;   
+}
+
+.featured-article-title{
+    display: flex;
+    flex-direction: column;
+    f;
+}
+
+.tips {
+    background-color: white;
+    color: black;
+    width: 40px;
+    height: 20px;
+    border-radius: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+.featured-article-title {
+    color: white;
+}
+
+.name-date {
+    display:flex
+}
